@@ -7,7 +7,7 @@ import './tasks/balanceOf';
 import './tasks/fund';
 
 const config = {
-  solidity: '0.8.9',
+  solidity: '0.8.17',
   subgraph: {
     name: 'mynft',
     indexEvents: true,
